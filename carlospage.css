@@ -1,0 +1,40 @@
+/* Style discription */
+h1 {
+    font-family: "Arial", sans-serif; /* You can change the font family */
+    color: #290202; /* You can change the color */
+    font-size: 28px;
+    font-weight: bolder;
+}
+
+/* Style title */
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 36px; /* You can change the font size */
+    color: #FF5733; /* You can change the color */
+    font-weight: bold;
+}
+
+/* Style subheadings */
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 24px; /* You can change the font size */
+    color: #000000; /* You can change the color */
+    font-weight: bold;
+}
+
+/* Style paragraphs */
+pa {
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #000000;
+}
+
+.margin_1 {
+    margin: 10px;
+    margin-left: 200px;
+    margin-bottom: 60px;
+}
+
+.margin_2 {
+    margin-bottom: 40px;
+}
