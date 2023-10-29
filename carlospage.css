@@ -58,3 +58,48 @@ p {
     border-radius: 2px;
     cursor: pointer;
 }
+
+.footer-subheading {
+    font-size:17px;
+    color:#fff;
+}
+
+footer {
+    background-color:#212529;
+    display:flex;
+    margin-top: 2% !important;
+    padding-top: 25px;
+    padding-bottom:30px;
+    padding-left:40px;
+}
+
+footer ul {
+    text-indent:-32px;
+}
+
+footer a {
+    text-decoration:none;
+    color:rgba(255, 255, 255, 0.55);
+}
+
+footer a:hover {
+    text-decoration:none;
+    transition-timing-function:ease-in-out;
+    transition-duration:0.15s;
+    transition-delay: 0s;
+    color:rgba(255, 255, 255, 0.725);
+}
+
+footer div {
+    margin-left:0;
+    margin-right: 50px;
+}
+
+
+#TOP img {
+    position:sticky;
+    bottom:2px;
+    margin-right:10px;
+    float: right;
+}
+
