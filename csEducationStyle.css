@@ -1,0 +1,25 @@
+.bgSlightlyLighter{
+    background-color: whitesmoke;
+}
+
+.card{
+    width: 100%;
+    height: 100%;
+}
+
+.card-body{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.card-text{
+    flex-grow: 1;
+}
+
+.subtleDivide{
+    width:100%;
+    height:0.1em;
+    background-color: gainsboro;
+    margin-bottom: 0.5em;
+}
